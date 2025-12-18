@@ -34,7 +34,7 @@ Heart disease remains one of the leading health concerns worldwide. Early detect
 ## 🛠️ How to Run Locally
 
 ```bash
-git clone https://github.com/T-Syam-Kumar/Heart_disease-predictor.git
+git clone https://github.com/charan-1i2c/heartbeat.git
 cd Heart_disease-predictor
 python -m venv venv
 # On Windows
